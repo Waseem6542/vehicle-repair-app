@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86481065583",
+    "project_id": "vehicle-repair-92e73",
+    "storage_bucket": "vehicle-repair-92e73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86481065583:android:b6ed52521b2d103496df9a",
+        "android_client_info": {
+          "package_name": "com.example.vehiclerepair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86481065583-ii1kprr8kstav10n8s7uqgk44s9jsopk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_k8-OdbQpdaOOU8ZTCsKTmKyQ7XzEx4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86481065583-ii1kprr8kstav10n8s7uqgk44s9jsopk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
